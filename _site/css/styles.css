@@ -18,11 +18,18 @@ div.intro {
   margin-bottom: -20px;
 }
 
-#intothemind{
+#intothemind {
   height: 350px;
   margin: -50px 40px 15px 40px;
   opacity: .5;
   border-radius: 500px;
+}
+
+div.link { 
+  text-align: center;
+  font-variant: small-caps;
+  font-weight: 800;
+  font-size: 20px;
 }
 
 div.songlist {
