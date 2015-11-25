@@ -19,6 +19,7 @@ div.intro {
 #intothemind{
   height: 300px;
   margin: 15px 40px;
+  float: center;
 }
 
 div.songlist {
