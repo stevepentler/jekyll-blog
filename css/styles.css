@@ -1,16 +1,20 @@
+h1{ 
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  font-family: fantasy;
+}
 
 div.post {
   background-image: url(http://plswichita.com/wp-content/uploads/2013/09/Professional-Landscaping-Services-Snow.jpg);
-}
 }
 
 div.header {
   text-align: center,
 }
 
-#crow {
-  height: 300px;
-  width: 500px;
+#CrowDance {
+  height: 400px;
   float: center;
 
 }
