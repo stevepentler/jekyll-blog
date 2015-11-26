@@ -1,9 +1,18 @@
 h1{ 
-  text-align: center;
+  display: inline; 
   font-size: 50px;
   color: black;
   font-family: fantasy;
+  font-variant: underline;
 }
+
+h2{ 
+  display: block; 
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  font-family: fantasy;
+  font-variant: underline;}
 
 div.post {
   background-image: url(http://plswichita.com/wp-content/uploads/2013/09/Professional-Landscaping-Services-Snow.jpg);
@@ -15,11 +24,8 @@ div.header {
 
 #CrowDance {
   height: 400px;
-  display: block;
+  display: inline;
   margin-right: auto;
-  margin-left: auto;
-
-
 }
 
 div.intro { 
