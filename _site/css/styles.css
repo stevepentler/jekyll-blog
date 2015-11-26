@@ -1,9 +1,19 @@
-body {
-  background-image: url(http://plswichita.com/wp-content/uploads/2013/09/Professional-Landscaping-Services-Snow.jpg);
-  background-repeat: repeat;
 
+div.post {
+  background-image: url(http://plswichita.com/wp-content/uploads/2013/09/Professional-Landscaping-Services-Snow.jpg);
+}
 }
 
+div.header {
+  text-align: center,
+}
+
+#crow {
+  height: 300px;
+  width: 500px;
+  float: center;
+
+}
 
 div.intro { 
   font: 40px arial, sans-serif;
