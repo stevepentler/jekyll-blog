@@ -1,16 +1,16 @@
 h1{ 
   display: inline; 
-  font-size: 50px;
+  font-size: 60px;
   color: black;
   font-family: fantasy;
   font-variant: underline;
 }
 
 h2{ 
-  display: block; 
+  display: inline;
+  float: center;
   font-size: 50px;
   color: black;
-  text-align: center;
   font-family: fantasy;
   font-variant: underline;}
 
